@@ -1,24 +1,9 @@
-# README
+# BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is simple Blog Application using RubyOnRails
 
-Things you may want to cover:
+* Ruby version : ruby 2.7.2
 
-* Ruby version
+* Rails version : Rails 6.0.3.4
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database : sqlite3
